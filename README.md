@@ -149,5 +149,5 @@ See [LICENSE](LICENSE) for more information.
 
 ---
 
-Made with ♥ by [Farhan Badr] 
+Made with ♥ by <h3><b>Farhan Badr</b></h3>
 [![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
