@@ -36,7 +36,7 @@
     "next": "^12.2.2",
     "next-i18next": "^10.3.0",
     "next-seo": "^4.29.0",
-    "parse": "3.4.1",
+    "parse": "3.5.1",
     "path": "^0.12.7",
     "react": "^17.0.2",
     "react-countdown": "^2.3.2",
