@@ -33,7 +33,7 @@
     "final-form": "^4.20.2",
     "fs": "0.0.1-security",
     "netlify-cli": "^8.15.3",
-    "next": "^12.2.2",
+    "next": "^13.5.0",
     "next-i18next": "^10.3.0",
     "next-seo": "^4.29.0",
     "parse": "3.4.1",
